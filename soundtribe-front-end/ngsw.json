@@ -1,0 +1,93 @@
+{
+  "configVersion": 1,
+  "timestamp": 1768509878730,
+  "index": "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/main.30faabcc9076eff5.js",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/manifest.webmanifest",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/polyfills.d3d74e414a80bb53.js",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/runtime.5909d4a6d434cc2b.js",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/scripts.ebf46bbb127420ec.js",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/styles.025fa6a0a9297d7f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-128x128.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-144x144.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-152x152.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-192x192.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-384x384.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-512x512.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-72x72.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-96x96.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/img/default-album.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/logo.png",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/modal.css",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/style/theme.css",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/bootstrap-icons.70a9dee9e5ab72aa.woff",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/bootstrap-icons.bfa90bda92a84a6a.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/img/default-album.png": "2df958de142c88ce5e9df18dd55f0ccb0f26d484",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/logo.png": "2494cd0572e37eaf9f841a65d38ca1fdaa13843f",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/modal.css": "204ca6bfb8d2b1364203fc8c3e12da76edb46b6c",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/style/theme.css": "447b3708c9ed8e65029751aff44bd39f1d666d65",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/bootstrap-icons.70a9dee9e5ab72aa.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/bootstrap-icons.bfa90bda92a84a6a.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html": "3a7e73332d469ca6c773b3cae40725b1cac14473",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/main.30faabcc9076eff5.js": "3600f4d64fd294b3dee6457c5a3e5623a342b5c7",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/manifest.webmanifest": "af69ce6e3955f24b94d15e97c99adde8d44deb92",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/polyfills.d3d74e414a80bb53.js": "c27674804488296a08ba356b15db6502f28c26f9",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/runtime.5909d4a6d434cc2b.js": "3599c193db9fad92a48257ec2cde8ab1887f91e6",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/scripts.ebf46bbb127420ec.js": "389140b61d7b50cda073392fc235e5b1e57acb5a",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/styles.025fa6a0a9297d7f.css": "852e38851febed2a34ee41893f9bd4c401e62d48"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
