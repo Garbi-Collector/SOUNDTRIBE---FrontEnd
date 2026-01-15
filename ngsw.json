@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768509878730,
+  "timestamp": 1768509965662,
   "index": "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html",
-        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/main.30faabcc9076eff5.js",
+        "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/main.b93e3396636309cf.js",
         "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/manifest.webmanifest",
         "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/polyfills.d3d74e414a80bb53.js",
         "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/runtime.5909d4a6d434cc2b.js",
@@ -63,8 +63,8 @@
     "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/assets/style/theme.css": "447b3708c9ed8e65029751aff44bd39f1d666d65",
     "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/bootstrap-icons.70a9dee9e5ab72aa.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
     "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/bootstrap-icons.bfa90bda92a84a6a.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
-    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html": "3a7e73332d469ca6c773b3cae40725b1cac14473",
-    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/main.30faabcc9076eff5.js": "3600f4d64fd294b3dee6457c5a3e5623a342b5c7",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/index.html": "3290f744c06a905e92ed0d14c0d5ec0d2b719e1a",
+    "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/main.b93e3396636309cf.js": "f750965c1a98ba52481d42a791a53eca82e18fab",
     "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/manifest.webmanifest": "af69ce6e3955f24b94d15e97c99adde8d44deb92",
     "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/polyfills.d3d74e414a80bb53.js": "c27674804488296a08ba356b15db6502f28c26f9",
     "https://garbi-collector.github.io/SOUNDTRIBE-FrontEnd/runtime.5909d4a6d434cc2b.js": "3599c193db9fad92a48257ec2cde8ab1887f91e6",
